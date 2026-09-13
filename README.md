@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.svg" width="100%" alt="Banner"/>
+
 # Hi 👋, I'm Gunda Tejeswara Rao
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Student;Building+Modern+Web+Applications;Exploring+AI+%26+Agentic+Tools;Cloud+%26+AWS+Enthusiast;Cybersecurity+%26+Ethical+Security;IoT+%2B+Embedded+Systems;Turning+Ideas+Into+Real+Projects" alt="Typing SVG"/>
@@ -10,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-tejeswara-rao-b0bb882b7)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundatejeswararao7@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/G_TEJESWARA_RAO_07/)
+[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b33Aig4MJOvNFMrB0XJX-Z78ALXB0VNj/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gundatejeswararao7&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -162,6 +165,7 @@ A command-line-only, temporary, one-to-one encrypted chat system built for priva
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gunda%20Tejeswara%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-tejeswara-rao-b0bb882b7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-G__TEJESWARA__RAO__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/G_TEJESWARA_RAO_07/)
 [![Gmail](https://img.shields.io/badge/Gmail-gundatejeswararao7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundatejeswararao7@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b33Aig4MJOvNFMrB0XJX-Z78ALXB0VNj/view?usp=sharing)
 
 **💭 Building. Learning. Securing. Automating.**
 
