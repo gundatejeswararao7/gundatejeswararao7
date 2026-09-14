@@ -135,7 +135,7 @@ A command-line-only, temporary, one-to-one encrypted chat system built for priva
 
 - 🥇 Hackathon Winner — CMR College, 2025
 - 🏅 15th Position — ByteBattle nationwide coding contest by CodeStrike Community
-- 💻 500+ problems solved on LeetCode
+- 💻 511+ problems solved on LeetCode — Global Rank 201,367 (Easy 314 · Medium 186 · Hard 11)
 - 🤖 Completed training in AI tools for building agentic agents
 - 🔐 Member of CICADA-3301 Cyber Security Club, MVSR Engineering College
 
@@ -149,6 +149,10 @@ A command-line-only, temporary, one-to-one encrypted chat system built for priva
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gundatejeswararao7&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gundatejeswararao7&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/G_TEJESWARA_RAO_07?theme=dark&font=Fira%20Code&ext=heatmap" width="65%" />
 
 </div>
 
