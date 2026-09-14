@@ -2,6 +2,8 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 
+# Hi 👋, I'm Gunda Tejeswara Rao
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Student;Building+Modern+Web+Applications;Exploring+AI+%26+Agentic+Tools;Cloud+%26+AWS+Enthusiast;Cybersecurity+%26+Ethical+Security;IoT+%2B+Embedded+Systems;Turning+Ideas+Into+Real+Projects" alt="Typing SVG"/>
 
 <br/>
@@ -68,6 +70,35 @@ A flexible temporary job marketplace where anyone can post work and anyone can f
 ### 🏏 [OverScore — Full-Stack Cricket Scoring Application](https://github.com/gundatejeswararao7/Cricket)
 A full-stack cricket scoring app for complete ball-by-ball match management — teams, players, playing XI, toss, innings, runs, wickets, extras, overs, strike rotation, targets, match results, and history. Uses an append-only event-based architecture for reliable score calculation, statistics, commentary, and undo/redo.
 `React` `Python` `FastAPI` `PostgreSQL` `REST APIs`
+
+<details>
+<summary><b>📸 View screenshots</b></summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><img src="./assets/overscore/01-landing-page.png" alt="Landing page"/><p align="center"><sub>Landing page</sub></p></td>
+<td width="50%"><img src="./assets/overscore/02-new-match-setup.png" alt="New match setup"/><p align="center"><sub>New match setup</sub></p></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/overscore/03-team-setup.png" alt="Team setup"/><p align="center"><sub>Team setup</sub></p></td>
+<td width="50%"><img src="./assets/overscore/04-toss.png" alt="Toss"/><p align="center"><sub>The toss</sub></p></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/overscore/05-live-scorer.png" alt="Live scorer"/><p align="center"><sub>Live ball-by-ball scorer</sub></p></td>
+<td width="50%"><img src="./assets/overscore/06-shot-map.png" alt="Shot map"/><p align="center"><sub>Shot placement map</sub></p></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/overscore/07-statistics-dashboard.png" alt="Statistics dashboard"/><p align="center"><sub>Live-computed statistics dashboard</sub></p></td>
+<td width="50%"><img src="./assets/overscore/08-match-result.png" alt="Match result"/><p align="center"><sub>Match result</sub></p></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/overscore/09-match-history.png" alt="Match history"/><p align="center"><sub>Match history</sub></p></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+</details>
 
 ### ⚡ [EcoVolt — Secure IoT Smart Energy Meter](https://github.com/gundatejeswararao7/EcoVolt-Smart-Sustainable-Energy)
 An IoT-powered smart energy monitoring and billing system that tracks electricity consumption in real time, analyzes usage patterns, controls electrical loads, and delivers insights through a web dashboard.
