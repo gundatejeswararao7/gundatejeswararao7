@@ -108,6 +108,31 @@ An IoT-powered smart energy monitoring and billing system that tracks electricit
 A command-line-only, temporary, one-to-one encrypted chat system built for private conversations, with OTP verification, authenticated sessions, AES-256-GCM message encryption, and automatic room cleanup.
 `Bash` `Python` `FastAPI` `PostgreSQL` `AES-256-GCM`
 
+<details>
+<summary><b>📸 View screenshots</b></summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><img src="./assets/shadowchat/01-landing-menu.png" alt="Landing menu"/><p align="center"><sub>Landing menu</sub></p></td>
+<td width="50%"><img src="./assets/shadowchat/02-register-otp.png" alt="Register with OTP"/><p align="center"><sub>Registration with email OTP</sub></p></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/shadowchat/03-login.png" alt="Login"/><p align="center"><sub>Authenticated login</sub></p></td>
+<td width="50%"><img src="./assets/shadowchat/04-main-dashboard.png" alt="Main dashboard"/><p align="center"><sub>Main dashboard</sub></p></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/shadowchat/05-search-and-waiting.png" alt="Search and waiting"/><p align="center"><sub>Search user &amp; send private chat request</sub></p></td>
+<td width="50%"><img src="./assets/shadowchat/06-notifications-accept.png" alt="Notifications accept"/><p align="center"><sub>Accepting a chat invitation</sub></p></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/shadowchat/07-private-chat.png" alt="Private chat"/><p align="center"><sub>Encrypted private room &amp; auto cleanup on leave</sub></p></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+</details>
+
 ---
 
 ## 💼 Internship Experience
