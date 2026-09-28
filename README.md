@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Student;Buildin[...]
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-gundatejeswararao7-181717?style=for-the-badge&logo=github)](https://github.com/gundatejeswararao7)
