@@ -58,7 +58,7 @@
 
 ## ⭐ Featured Projects
 
-### 💼 [Workfolio](https://github.com/gundatejeswararao7/Workfolio)
+### 💼 [Workfolio](https://github.com/gundatejeswararao7/WorkBridge)
 **Post Work. Find Work. Get It Done.**
 A flexible temporary job marketplace where anyone can post work and anyone can find work — connecting people for technical and non-technical tasks, with users able to switch between requester and worker roles.
 `React` `Python` `FastAPI`
