@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-tejeswara-rao-b0bb882b7)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundatejeswararao7@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/G_TEJESWARA_RAO_07/)
-[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b33Aig4MJOvNFMrB0XJX-Z78ALXB0VNj/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1eERsuN6dyWRhp31yl3TjtYIm4D4e0cvJ/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gundatejeswararao7&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
