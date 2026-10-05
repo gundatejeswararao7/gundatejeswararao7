@@ -194,7 +194,7 @@ A command-line-only, temporary, one-to-one encrypted chat system built for priva
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gunda%20Tejeswara%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-tejeswara-rao-b0bb882b7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-G__TEJESWARA__RAO__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/G_TEJESWARA_RAO_07/)
 [![Gmail](https://img.shields.io/badge/Gmail-gundatejeswararao7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gundatejeswararao7@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b33Aig4MJOvNFMrB0XJX-Z78ALXB0VNj/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1eERsuN6dyWRhp31yl3TjtYIm4D4e0cvJ/view?usp=sharing)
 
 **💭 Building. Learning. Securing. Automating.**
 
